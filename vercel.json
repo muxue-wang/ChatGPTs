@@ -24,11 +24,5 @@
         }
       ]
     }
-  ],
-  "rewrites": [
-    {
-      "source": "/api/mj/:path*",
-      "destination": "http://us.muxue.wang:9090/mj/:path*"
-    }
   ]
 }
